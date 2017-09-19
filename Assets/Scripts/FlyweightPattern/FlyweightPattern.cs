@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class FlyweightPattern : MonoBehaviour {
+	
+//	Please check the draw call count on Stats window 
+//	and memory consumption from Profiler panel 	
+	
 
 	List<Cell> cellList;
 	SpriteFactory spriteFactory;

@@ -13,6 +13,10 @@
 *.userosscache
 *.sln.docstates
 
+/Assets/Plugins/Editor.meta
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
