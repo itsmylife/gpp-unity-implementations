@@ -1,6 +1,6 @@
 ## Game Programming Patterns in Unity
 
-Game Programming Patterns is a must read book for every game developer. Most of the code examples in the book are written with c++. I tried to implement them Unity. 
+Game Programming Patterns is a must read book for every game developer. Most of the code examples in the book are written with c++. I am trying to implement them Unity. 
 
 Suggestions and pull requests are very welcome.
 
